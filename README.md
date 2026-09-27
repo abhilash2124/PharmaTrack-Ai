@@ -1,4 +1,4 @@
-# 🤖 AI CRM Assistant (HCP Interaction Logger)
+# 🤖 PharmaTrack AI – Smart HCP Engagement CRM
 
 An AI-powered CRM system that allows users to log Healthcare Professional (HCP) interactions using natural language.
 

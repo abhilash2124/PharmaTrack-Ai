@@ -62,7 +62,7 @@ The system automatically:
 ### 1️⃣ Clone repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/abhilash2124/PharmaTrack-Ai.git
 cd ai-crm-hcp
 ```
 
